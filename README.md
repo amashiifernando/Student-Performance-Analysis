@@ -16,5 +16,5 @@ This project provides a comprehensive analysis of the 2020 G.C.E. Advanced Level
 4. **Machine Learning:** Built and compared multiple models, with Ridge Regression providing high predictive accuracy.
 
 ## Repository Contents
-* `report/`: Full project report. [View the PDF Report](report/Student_performance_report.pdf)
-* `code/`: Python codes for analysis and modeling. [View the R Script](code/codes_for_Analysis.ipynb)
+* `report/`: Full project report. [View the PDF Report](Student_performance_project/report/Student_performance_report.pdf)
+* `code/`: Python codes for analysis and modeling. [View the R Script](Student_performance_project/code/codes_for_Analysis.ipynb)
